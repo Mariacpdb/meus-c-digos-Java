@@ -1,6 +1,3 @@
-
-
-
 import java.util.Scanner;
 public class Main {
   
@@ -17,3 +14,6 @@ public class Main {
 
   
 }
+
+
+
